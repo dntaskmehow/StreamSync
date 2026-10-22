@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="docs/assets/streamsync-mark.svg" alt="StreamSync mark" width="120" />
   <h1>StreamSync</h1>
   <p>
     <strong>HTTP/2 multiplexing for TOCTOU discovery and race-condition validation.</strong>
